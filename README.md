@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a programmer since 2022. My main language is Haxe, but I am also actively learning C
+I am a programmer since 2022. My main language is Haxe, but I am also actively learning C and waiting for Jai release
 
 I love Microsoft
 
